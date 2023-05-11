@@ -102,6 +102,9 @@ ul li p {
 	font-size: 14px;
 	line-height: 1.5;
 }
+ul :hover{
+	background-color: var(--Rosa);
+}
 
 /* Estiliza a tabela */
 table {
